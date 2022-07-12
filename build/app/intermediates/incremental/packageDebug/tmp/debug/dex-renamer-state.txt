@@ -1,0 +1,4 @@
+#Tue Jul 12 13:57:07 WAT 2022
+base.0=/home/ephraim/StudioProjects/test-app/text_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
